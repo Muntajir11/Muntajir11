@@ -1,4 +1,4 @@
-##👋 Welcome to My GitHub!
+## Welcome to My GitHub! 👋
 
 I'm Muntajir, a passionate developer exploring the tech world. Here, you'll find my projects and contributions. Let's collaborate and make technology awesome! 😄
 
