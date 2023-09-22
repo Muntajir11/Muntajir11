@@ -1,6 +1,6 @@
 ## Welcome to My GitHub! 👋
 
-I'm Muntajir, a passionate developer exploring the tech world. Here, you'll find my projects and contributions. Let's collaborate and make technology awesome! 😄
+I'm Muntajir, a passionate developer exploring the tech world. Here, you'll find my projects and contributions. Let's collaborate and make technology awesome! I am open to opportunities!😄
 
 <!--
 **Muntajir11/Muntajir11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
