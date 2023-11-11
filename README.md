@@ -9,7 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/muntajirgazi" target="blank"><img src="https://img.shields.io/twitter/follow/muntajirgazi?logo=twitter&style=for-the-badge" alt="muntajirgazi" /></a> </p>
 
+- 🔭 I’m currently working on **React**
+
 - 🌱 I’m currently learning **MERN Stack**
+
+- 💬 Ask me about **MERN || DSA**
 
 - 📫 How to reach me **muntajirwork11@gmail.com**
 
