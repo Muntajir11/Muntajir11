@@ -1,3 +1,4 @@
+[![MasterHead](https://i.gifer.com/39Cg.gif)]
 <h1 align="center">Hi 👋, I'm Muntajir</h1>
 <h3 align="center">a passionate developer exploring the tech world. Here, you'll find my projects and contributions. Let's collaborate and make technology awesome! I am open to opportunities!😄</h3>
 
