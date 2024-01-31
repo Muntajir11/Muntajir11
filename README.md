@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Full Stack Dev**
 
-- 💬 Ask me about **MERN || DSA**
+- 💬 Ask me about **Full Stack || DSA**
 
 - 📫 How to reach me **muntajirwork11@gmail.com**
 
