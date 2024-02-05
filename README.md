@@ -1,6 +1,6 @@
 
-<h3 align="center">Hi 👋I'm Muntajir,a passionate Full Stack Developer.
-In this repository, you'll find a collection of my projects, ranging from front-end interfaces to back-end systems, showcasing my skills in various technologies and frameworks.
+<h3 align="center">Hi 👋I'm Muntajir, a passionate Full Stack Developer.
+In this repository, you'll find a collection of my projects, ranging from front-end interfaces to back-end systems, showcasing my skills in various technologies and frameworks.👨‍💻
 </h3>
 
 
