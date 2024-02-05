@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muntajir</h1>
 
 
-
-<p align="center" ><img align="center" width="600px"  alt="Coding"  src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" /> </p>
+<p align="center" ><img align="center" width="100%"  alt="Coding"  src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntajir11&label=Profile%20views&color=0e75b6&style=flat" alt="muntajir11" /> </p>
 
