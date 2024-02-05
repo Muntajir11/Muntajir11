@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi👋, I'm Muntajir. Welcome to my GitHub repository!</h1>
+<h1 align="center">Hi 👋I'm Muntajir, a passionate Full Stack Developer.
+In this repository, you'll find a collection of my projects, ranging from front-end interfaces to back-end systems, showcasing my skills in various technologies and frameworks.
+Happy coding! 🚀</h1>
+
 
 
 <p align="center" ><img align="center" width="100%" height="80%" alt="Coding"  src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" /> </p>
