@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntajir11&label=Profile%20views&color=0e75b6&style=flat" alt="muntajir11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntajir11" alt="muntajir11" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Muntajir11&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/muntajirgazi" target="blank"><img src="https://img.shields.io/twitter/follow/muntajirgazi?logo=twitter&style=for-the-badge" alt="muntajirgazi" /></a> </p>
 
