@@ -7,7 +7,7 @@ In this repository, you'll find a collection of my projects, ranging from front-
 
 <p align="center" ><img align="center" width="100%" height="80%" alt="Coding"  src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntajir11&label=Profile%20views&color=0e75b6&style=flat" alt="muntajir11" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Muntajir11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muntajir11&theme=radical&no-frame=true&no-bg=false&margin-w=4)
