@@ -1,8 +1,13 @@
 
 <h3 align="center">Hi 👋I'm Muntajir, a passionate Full Stack Developer.</h3>
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</div>
+
 
 <p align="center" ><img align="center" width="100%" height="80%" alt="Coding"  src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" /> </p>
 
