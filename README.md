@@ -1,9 +1,6 @@
 
 <h3 align="center">Hi 👋I'm Muntajir, a passionate Full Stack Developer.</h3>
 
-### ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
