@@ -13,9 +13,7 @@ I'm Muntajir, a passionate Full Stack Developer
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Full Stack Dev**
-
-- 💬 Ask me about **Full Stack || DSA**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **muntajirwork11@gmail.com**
 
