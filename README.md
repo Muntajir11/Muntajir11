@@ -12,8 +12,6 @@ Hey there👋
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muntajir11&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/muntajirgazi" target="blank"><img src="https://img.shields.io/twitter/follow/muntajirgazi?logo=twitter&style=for-the-badge" alt="muntajirgazi" /></a> </p>
-
 - 📫 How to reach me **muntajirwork11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
