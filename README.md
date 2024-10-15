@@ -6,7 +6,7 @@ Hey there👋
 
 [![](https://visitcount.itsvg.in/api?id=Muntajir11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏆 Hacktoberfest Open Source Badges
+### 🏅 Hacktoberfest Open Source Badges
 [![An image of @muntajir11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muntajir11)](https://holopin.io/@muntajir11)
 
 ## 🏆 GitHub Trophies
